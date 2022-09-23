@@ -1,0 +1,3 @@
+[submodule "generic-apps"]
+	path = generic-apps
+	url = https://github.com/nightmar39/generic-apps.git
